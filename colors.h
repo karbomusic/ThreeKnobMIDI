@@ -8,6 +8,8 @@
 
   Note: Values are derived with sub 100r resistor on GND.
         The better method is to calculate using 1 resister per color.
+        This will be added in a later update but essentially it means the
+        RGB values will not need to be tweaked like they are below.
         
  */
 
